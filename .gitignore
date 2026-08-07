@@ -1,0 +1,15 @@
+# Diretorios de compilação (Binários e Objetos)
+bin/
+obj/
+
+# Arquivos de objetos intermediarios e de dependencias
+*.o
+*.obj
+*.out
+
+# Arquivos temporários e de layout do Code::Blocks
+*.layout
+*.depend
+
+# Arquivos de configuração de editores e do VS Code
+.vscode/
