@@ -13,3 +13,5 @@ obj/
 
 # Arquivos de configuração de editores e do VS Code
 .vscode/
+
+*.cbp
